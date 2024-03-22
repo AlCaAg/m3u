@@ -20,3 +20,5 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
 #EXTINF:-1 tvg-id="Telemedellin",Telemedellín
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
+#EXTINF:-1 tvg-id="ESPN",ESPN
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/6444.ts
