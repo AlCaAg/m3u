@@ -12,13 +12,9 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-id="CanalInstitucional",Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Cosmovision",Cosmovision
-https://videohls2.cosmovision.tv/hls/sd.m3u8
 #EXTINF:-1 tvg-id="SenalColombia",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia",Teleantioquia
 https://d1xgz5r2yxvjwj.cloudfront.net/out/v1/49d5fdc5370d4f43aab4930ec7a9cbf8/index.m3u8
 #EXTINF:-1 tvg-id="Telemedellin",Telemedellín
 https://d3cglye48cl6m2.cloudfront.net/out/v1/37d85e2ab37c4873aed6849fe74e78b8/index.m3u8
-#EXTINF:-1 tvg-id="ESPN",ESPN
-http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/6444.ts
